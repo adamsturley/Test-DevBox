@@ -1,7 +1,7 @@
 $schmea: "1.0"
 name: "Devbox Cutomizations"
+image: microsoftvisualstudio_visualstudioplustools_vs-2022-ent-general-win11-m365-gen2 
 tasks:
   - name: winget
-    description: Install Notepadd ++ with winget
     parameters:
       package: Notepad++
