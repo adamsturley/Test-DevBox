@@ -1,4 +1,5 @@
 $schmea: "1.0"
+name: "Devbox Cutomizations"
 tasks:
   - name: winget
     description: Install Notepadd ++ with winget
