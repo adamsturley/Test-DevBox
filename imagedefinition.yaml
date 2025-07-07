@@ -4,4 +4,4 @@ image: microsoftvisualstudio_visualstudioplustools_vs-2022-ent-general-win11-m36
 tasks:
   - name: winget
     parameters:
-      package: Notepad++.Notepadd++
+      package: Notepad++.Notepad++
