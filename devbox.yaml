@@ -1,3 +1,7 @@
-customizations:
-  setupTasks:
-    - task: install-notepadpp.ps1
+name: "DevBox Customizations"
+
+tasks:
+  - name: ~/winget
+    description: Install Notepadd ++ with winget
+    parameters:
+      package: Notepad++
