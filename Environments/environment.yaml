@@ -1,0 +1,6 @@
+name: DevBox
+version: 1.0.0
+summary: Sandpit DevBox Environment
+description: Deploys a custom DevBox
+runner: ARM
+templatePath: devboxdeploy.json
